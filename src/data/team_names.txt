@@ -27,12 +27,14 @@ Astronauts
 Augusta
 Avoiders
 Avulsions
+Back Streets
 Bacon Bits
 Balloon Animals
-Back Streets
 Banking Software
 Barnstormers
 Bathtubs
+Beach Towels
+Bean Sox
 Beancounters
 Beaneaters
 Bears
@@ -46,14 +48,27 @@ Bernoullis
 Best Guesses
 Betas
 Bifurcations
+Billionaires
 Bimodals
 Bird Calls
 Black & Tan
 Blanket Forts
 Blaseballers
 Blazers
-Bloodborne
+Blood
+Blood Cells
+Bloodspatter
+Bloodsport
+Bloody Mary
+Blue Birds
+Blue Bloods
 Blue Chips
+Blue Collars
+Blue Demons
+Blue Devils
+Blue Jays
+Blue Sox
+Blues
 Boarders
 Boat Shoes
 Boll Wevils
@@ -67,6 +82,7 @@ Bookmenders
 Boomers
 Bootmenders
 Bottlecaps
+Bowlers
 Box Forts
 Brass
 Brass Knuckles
@@ -75,7 +91,14 @@ Bread Bakers
 Bread Makers
 Bricks
 Bridge Burners
+Bruins
+Bruisers
 Buildings
+Bullbutter
+Bulldip
+Bulldog-Poodles
+Bulldogs
+Bullriders
 Bumblebees
 Burgerfingers
 Burgers
@@ -90,6 +113,7 @@ Butterfingers
 Butts
 Buzzsaws
 Cacti
+Caesars
 Cagefighters
 Cake Bakers
 Camels
@@ -97,6 +121,10 @@ Candlemakers
 Canned Beans
 Capitalists
 Carbonates
+Card Counters
+Card Sharks
+Card Sharps
+Cardinals
 Casette Tapes
 Cashews
 Cavesystems
@@ -115,8 +143,8 @@ Chili Peppers
 Chiralities
 Chloroform
 Choo Choo Trains
-Cigars
 Cigar Smokers
+Cigars
 Clamp Lamps
 Cleaners
 Cleavers
@@ -137,9 +165,13 @@ Cookie Eaters
 Cool Cats
 Corporates
 Corsairs
+Cosine Waves
+Cosines
 Cossacks
 Couchfeet
+Cougars
 Counter-Spies
+Counterpunch
 Counts
 Cow Controllers
 Craters
@@ -147,26 +179,29 @@ Crouchfeet
 Crumbling Castles
 Crushers
 Curse Words
+Curve Tangents
 Cyberlamps
 Cyberspies
 Cyclogravimetricians
 Daggers
 Dallas
+Dark Tangents
 Dead Batteries
 Dead Presidents
 Dear Deer
 Decay
 Deceit
+Deer Problems
 Delivery Drivers
 Demolishers
-Denominators
 Denominations
+Denominators
 Department of Motor Vehicles Bureaucrats
 Depth Carges
 Desk Jockeys
 Desklamps
-Detectives
 Detective Agency
+Detectives
 Devils
 Diamond Runners
 Diamonds
@@ -175,7 +210,13 @@ Divebombers
 Divers
 Do It For A Dollar
 Doctors
+Dog Brains
+Dog Breath
+Dogcatchers
+Dogsitters
+Dogwalkers
 Dolomites
+Dolphins
 Dominions
 Doublers
 Downtown Area
@@ -196,6 +237,11 @@ Electrical Outlets
 Electricians
 Electromancers
 Electronic Warfare
+Electrophoresis
+Electrophoretic Depositors
+Electrostatic Generators
+Electrostatic Precipitators
+Electrostatic Units
 Embalmers
 Embarrassments
 Embroideries
@@ -206,10 +252,12 @@ Ergo
 Esophagi
 Evaders
 Eviction Notices
+Evictors
 Examiners
 Exchequers
 Expats
 Expense Reports
+Expired Meat
 Expired Milk
 Extroverts
 Eyeliner
@@ -219,6 +267,7 @@ Fake Twenties
 Falcons
 Fallout
 Familiars
+Fartbox
 Fasteners
 Fatalities
 Fauna
@@ -249,12 +298,18 @@ Flapjacks
 Flatulence
 Flavinoids
 Flightless Birds
+Floor is Lava
+Floor-is-Lavas
 Flora
+Fly Swatters
+Flyers
 Flying Fists
 Flying Scots
+Flypaper
 FoMa
 Foamfinders
 Fog
+Fools
 Footwork
 Foreshadowers
 Fork Benders
@@ -268,7 +323,10 @@ Fruit Flushers
 Fry Sauce
 Functions
 Futurists
+Game Spitters
+Gamecocks
 Ganglia
+Garbage Fires
 Gargantuans
 Garlic Breaths
 Gastroenterologists
@@ -296,8 +354,16 @@ Gin Queens
 Giraffe
 Glaciers
 Glasgows
+Glitter Bombs
 Glitter Sharks
+Glitter Snakes
 Goddamn
+Golden Beetles
+Golden Burritos
+Golden Falcons
+Golden Griffins
+Golden Idols
+Golden Tigers
 Goldeneyes
 Goldsmelters
 Gondolas
@@ -309,6 +375,13 @@ Grammarians
 Grandiloquents
 Grape Chews
 Gravity
+Green Eggs and Ham
+Green Geckos
+Green Grass
+Green Phones
+Green Sharks
+Green Sox
+Greens
 Groundskeepers
 Gyroscopes
 Hamfists
@@ -376,14 +449,17 @@ Invisible Hands
 Ionization Energy
 Isobars
 Isotropics
+Jackasses
 Jackhammers
 Jacks
 Jawbreakers
 Jaz Drives
 Jerseys
+Jesters
 Jetstreams
 Juice Boxes
 Kaleidoscoipes
+Kangaroos
 Kansas
 Keggerators
 Kerplunkers
@@ -393,7 +469,9 @@ Keypunchers
 Kickbacks
 Kickstands
 Kilocalories
+Kilojoules
 Kiloparsecs
+Kilowatts
 Kiltmenders
 Kindergardeners
 Kinematics
@@ -406,6 +484,7 @@ Knickerboxers
 Knife Sharpeners
 Knitters
 Knownothings
+Knuckle Sandwiches
 Knuckleballers
 Knuckleheads
 Kremlinologists
@@ -419,15 +498,21 @@ Lamp Cords
 Laptop Thieves
 Larks
 Lava Chuggers
+Lava Floors
+Lava Tubes
 Lazy Pirates
 Lemonheads
 Lemons
 Liberal Arts Majors
 Librarians
 Licks
+Life Choices
 Life Coaches
 Light Fixtures
-Likelihoods
+Light Tangents
+Likelihood
+Limes
+Limestone
 Literalists
 LoMa
 Loaves
@@ -436,13 +521,19 @@ Lockpickers
 Loose Bolts
 Losers
 Lost Causes
+Lumens
 Lunar Explosions
 Macroeconomists
+Magenta Sox
+Magma
+Magnesium
+Magnesium Hunters
 Magnetics
 Mahogany
 Malcontents
 Malevolents
 Maneuvers
+Manganese
 Manual Overrides
 Mashed Potatoes
 Masquerades
@@ -461,6 +552,7 @@ Methodologies
 Midnights
 Mighty Mice
 Mighty Spanners
+Millionaires
 Mimosas
 Mindblowers
 Mindflowers
@@ -550,15 +642,21 @@ Omniscients
 Onychophorans
 Open Hands
 Oracles
+Orange Jays
+Orange Reds
 Orange Slicers
+Orange Tigers
 Oranges
 Orbital Insertions
 Orbitals
 Orbs
 Originalists
 Ornithologists
+Ornithomancers
 Orthogonals
+Orthorhombics
 Osteoblasts
+Ostrich
 Outbacks
 Outbreaks
 Outhouse Backsteaks
@@ -568,7 +666,9 @@ Outliers
 Overproportioned Cartoons
 Oversimplifiers
 Oxidation
+Oxidative Phosphorylationists
 Oxyphenobutazones
+Oxypyrophoresis
 Ozone Holes
 Page Turners
 Painmakers
@@ -583,17 +683,22 @@ Party Snacks
 Pawns
 Payphones
 Peaceniks
+Peach Pits
 Peaches
 Pedestrians
 Pencilnecks
 Penguins
+People Eaters
 Pepperoni
 Phantoms
 Pharynges
 Phoenix
+Phosphorescence
+Phosphoric Acid
+Phosphorus
 Photosensitives
-Pigeons
 Pigeon Brains
+Pigeons
 Pineapples
 Pines
 Pipefitters
@@ -625,6 +730,17 @@ Psychiatrists
 Psychonauts
 Psychophysicists
 Punishers
+Purp
+Purple Aces
+Purple Bulldogs
+Purple Capes
+Purple Demons
+Purple Iguanas
+Purple Machine
+Purple Nurples
+Purple Quokkas
+Purple Sox
+Purple Tigers
 Pyromancers
 Quadruplicators
 Quantiles
@@ -643,6 +759,8 @@ Ragweeds
 Rainbow Trout
 Rainbows
 Rainshowers
+Ramrods
+Rams
 Rancors
 Rapscallions
 Rascals
@@ -655,10 +773,19 @@ Realists
 Recalcitrants
 Reciprocators
 Recursive Recursives
+Red Birds
+Red Camels
+Red Foxes
+Red Hawks
+Red Iguanas
 Red Lights
+Red Phosphorous
+Red Raiders
 Red Rumps
+Red Sox
 Redactions
 Redeyes
+Reds
 Refusniks
 Reliables
 Remonstrations
@@ -707,6 +834,7 @@ Seacrests
 Seasons
 Secondhand Information
 Seraphim
+Sesquisulphides
 Sewer Covers
 Shakes
 Sheep
@@ -719,12 +847,16 @@ Short Order Cooks
 Short Stacks
 Shrimps
 Sidekicks
+Sidewinders
+Sine Waves
+Sines
 Skates
 Skeletons
 Skeptics
 Ski Lifts
 Skullcrushers
 Slashers
+Slice
 Slime Mold
 Sloths
 Slugs
@@ -739,7 +871,10 @@ SoMa
 Souveniers
 Space Cars
 Sparkle Motion
+Sparkle Snakes
+Sparkle Spartans
 Sparkleflashes
+Spartans
 Special Advisors
 Speedboats
 Spicy Nachos
@@ -759,10 +894,14 @@ Stocks
 Stompers
 Stonebreakers
 Stonethrowers
+Storm
+Storm Clouds
+Stormchasers
 Strip Malls
 Stunt Pilots
 Subroutines
 Substitutions
+Sulfur
 Sulphur Licks
 Sun Cats
 Sun Dogs
@@ -774,10 +913,16 @@ Switchblades
 Tailgaters
 Takeouts
 Tangerines
+Tarletons
+Tattlers
 Teamsters
 Tears
 Tenderloins
+Tenders
+Tendies
+Tendys
 Termites
+Texans
 Texas
 Texas Rangers
 Thermovolatics
@@ -791,6 +936,8 @@ Time Chasers
 Time Graters
 Time Wasters
 Tire Irons
+Toast
+Toasters
 Tools
 Toothless Sharks
 Topgallants
@@ -813,13 +960,17 @@ Tries
 Trout
 Try Harders
 Turncoats
+Tush
+Tushy
 U-Turns
 USB-F
 Umbrella Bayonetts
 Umbrellas
 Undead
+Unicorn Poop
 Unicorns
 Universal Constants
+Universe
 Upcreeks
 Updog
 Upstream Swimmers
@@ -831,6 +982,8 @@ Wakeboarders
 Warlocks
 Wasteland
 Waterborne Diseases
+Waterbowls
+Waterfowl
 Waves
 Wealth Redistributors
 Wedgewoods
@@ -850,5 +1003,10 @@ Woodfingers
 Woodsplitters
 Yak Shavers
 Yawners
+Yeet
+Yellow Beetles
+Yellow Oranges
+Yellow Sharks
+Yellow Sox
 Zeros
 Zoomers
