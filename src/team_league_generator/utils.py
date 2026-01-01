@@ -7,7 +7,7 @@ from .errors import CountryCodeError
 def get_city_country_codes():
     """Return a sorted list of country codes"""
     country_codes = set()
-    for fpath in glob(GEO + "/*.txt"):
+    for fpath in sorted(glob(GEO + "/*.txt")):
         fname = os.path.basename(fpath)
         if "states" in fname:
             continue
@@ -18,7 +18,7 @@ def get_city_country_codes():
 
 def get_state_country_codes():
     country_codes = set()
-    for fpath in glob(GEO + "/*_states.txt"):
+    for fpath in sorted(glob(GEO + "/*_states.txt")):
         fname = os.path.basename(fpath)
         country_code = fname.split("_")[0]
         country_codes.add(country_code)
