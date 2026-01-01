@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "team-league-generator"
+version = "0.0.1"
+authors = [
+  { name="Ch4zm of Hellmouth", email="ch4zm.of.hellmouth@gmail.com" },
+]
+description = "team-league-generator is a toolbox for generating new leagues"
+readme = "Readme.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "xmltodict",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/ch4zm/team-league-generator"
+"Bug Tracker" = "https://github.com/ch4zm/team-league-generator/issues"
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "coverage",
+    "pytest-cov",
+]
+
+[tool.setuptools.package-dir]
+"" = "src"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+team_league_generator = ["data/*.txt", "data/geography/*", "data/geography/_ABBR_KEY"]
