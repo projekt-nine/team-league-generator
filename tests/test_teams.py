@@ -2,7 +2,7 @@ import os
 import random
 import tempfile
 import unittest
-from underleague_generator.teams import (
+from team_league_generator.teams import (
     TeamNameGeneratorBase,
     TeamNameGenerator,
     LeagueDivisionNameGeneratorBase,
@@ -28,7 +28,7 @@ class TestTeams(unittest.TestCase):
         tg = TeamNameGenerator()
         random.seed(420)
         res = tg.generate(size=4)
-        self.assertIn("Nightmares", res)
+        self.assertIn("Ritualists", res)
 
     def test_team_name_generator_data_file(self):
         teams = [

@@ -2,12 +2,12 @@ import uuid
 import os
 import unittest
 import tempfile
-import underleague_generator
-from underleague_generator.errors import (
+import team_league_generator
+from team_league_generator.errors import (
     InvalidSizeRequestError,
     NotIterableError,
 )
-from underleague_generator.generics import (
+from team_league_generator.generics import (
     IterableDataLoader,
     UniformGenerator,
     BaseLinearBiasedGenerator,

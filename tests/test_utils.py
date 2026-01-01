@@ -1,8 +1,8 @@
 import os
 import random
 import unittest
-from underleague_generator.constants import DATA, GEO
-from underleague_generator.utils import (
+from team_league_generator.constants import DATA, GEO
+from team_league_generator.utils import (
     get_city_country_codes,
     get_state_country_codes,
     get_cities_data_file_from_country_code,

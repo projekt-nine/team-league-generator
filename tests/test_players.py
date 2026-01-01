@@ -2,7 +2,7 @@ import os
 import random
 import tempfile
 import unittest
-from underleague_generator.players import (
+from team_league_generator.players import (
     FirstNameGeneratorBase,
     FirstNameGenerator,
     LastNameGeneratorBase,

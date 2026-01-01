@@ -1,8 +1,8 @@
 import random
 import unittest
-from underleague_generator.utils import get_city_country_codes, get_state_country_codes
-from underleague_generator.errors import CountryCodeError
-from underleague_generator.geography import (
+from team_league_generator.utils import get_city_country_codes, get_state_country_codes
+from team_league_generator.errors import CountryCodeError
+from team_league_generator.geography import (
     StatesGeneratorBase,
     StatesGenerator,
     BigStatesGenerator,

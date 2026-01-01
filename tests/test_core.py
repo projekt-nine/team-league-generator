@@ -1,5 +1,5 @@
 import unittest
-from underleague_generator.utils import (
+from team_league_generator.utils import (
     get_city_country_codes,
     get_state_country_codes
 )
